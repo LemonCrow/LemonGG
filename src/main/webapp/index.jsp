@@ -11,6 +11,7 @@
 	<div class="layer">
 		<span class="content">
 			<h1 id="logo">LemonGG</h1>
+			
 		</span>
 	</div>
 </body>
