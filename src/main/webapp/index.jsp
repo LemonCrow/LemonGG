@@ -7,11 +7,11 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
-<body style="background: #FFFF00">
+<body style="background: #feeea9">
 	<div class="layer">
 		<span class="content">
-			<h1 id="logo">LemonGG</h1>
-			
+			<h1 id="logo">Lemon.GG</h1>
+			<input type="text" placeholder="닉네임" name="userName">
 		</span>
 	</div>
 </body>
